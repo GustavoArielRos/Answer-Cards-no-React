@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": "0301",
+      "questao": "Qual a capital da China?",
+      "resposta": "Pequim"
+    },
+    {
+      "id": "2b31",
+      "questao": "Qual a capital da Uruguai?",
+      "resposta": "Montevidéu"
+    },
+    {
+      "id": "035c",
+      "questao": "Qual a capital do Japão?",
+      "resposta": "Tóquio"
+    },
+    {
+      "id": "ae8d",
+      "questao": "Qual a capital da Alemanha?",
+      "resposta": "Berlim"
+    },
+    {
+      "id": "4b73",
+      "questao": "Qual a Capital da Irlanda?",
+      "resposta": "Dublin"
+    },
+    {
+      "id": "8f1d",
+      "questao": "Qual a Capital da Argentina?",
+      "resposta": "Buenos Aires"
+    }
+  ]
+}
